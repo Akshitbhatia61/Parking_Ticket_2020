@@ -1,8 +1,9 @@
-Project Details: - 
+**Project Details: - **
 
 The project aims to analyze and visualize the distribution and trends of tickets issued throughout 2020. By employing pivot tables and charts, the project provides a clear understanding of the daily issuance of tickets and the breakdown of tickets by provision and infraction. This analysis can help identify patterns, peak periods of ticket issuance, and common infractions, assisting in strategic planning and enforcement improvements.
 
-Pivot Table 1: Daily Tickets Analysis
+**Pivot Table 1: Daily Tickets Analysis**
+
 Objective: To summarize and visualize the total number of tickets issued each day throughout the year.
 Data Fields Used:
 Row: Infraction Code
@@ -11,7 +12,8 @@ Visualization: Pie Chart.
 The pie chart represents the share of tickets issued on a daily basis, making it easier to identify days with unusually high or low ticket volumes. While pie charts are generally more effective for showing a breakdown of a few categories, for daily analysis over a year, a line chart might provide clearer insights over time.
 
 
-Pivot Table 2: Tickets by Provision and Infraction
+**Pivot Table 2: Tickets by Provision and Infraction**
+
 Objective: To analyze the distribution of tickets issued, categorized by different provisions and infractions.
 Data Fields Used:
 Rows: Infraction Description
@@ -22,7 +24,7 @@ This graph combines a column chart, which could represent the count of tickets p
 
 
 
-Major KPI: -
+**Major KPI: -**
 
 1) Which province has the most fines outside of Ontario (ON)?  And how much was it?
 
@@ -49,7 +51,7 @@ STND ONSTRT ACCESSIBLE NO PRMT
 
 From the data, the third most fined type of infraction is “STOP-SIGNED HIGHWAY-RUSH HOUR”. It was $1,271,400.00.
 
-Applications of the Project: - 
+**Applications of the Project: -** 
 
 The insights gained from this project could be used by law enforcement agencies, city planners, and policy makers to:
 •	Understand enforcement activities' effectiveness.
